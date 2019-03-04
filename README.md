@@ -1,6 +1,6 @@
 # INSTABD
-Projeto final da disciplina de <i>Banco de dados</i>, com intuito de "copiar" o instagram, com ênfase na manipulação do banco de dados.
-Por conhecer e trabalhar com <b><i>Ruby on Rails</i></b>, acabou sendo a ferramenta escolhida para o projeto, como consta na descrição técnica abaixo:
+
+O projeto da disciplina de banco de dados, consiste em implementar uma rede social, projetando-se o modelo conceitual (Diagrama Entidade-Relacionamento), depois transformando-o no modelo lógico (Modelo Relacional) do banco de dados do software e por fim implementando-o.
 
 ### Descrição Técnica:
   
